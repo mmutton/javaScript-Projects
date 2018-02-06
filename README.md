@@ -8,7 +8,7 @@ A collection of projects using javaScript, including jQuery, Nodejs.
 ## 1.  Simple Shopping List
 Shopping list with line-through and delete items functions and add item input, which is hideable.
 
-![Shopping List](images/ShoppingListScreenshot-copy.png)
+![Shopping List](images/ShoppingListScreenshot.png)
 
 2.  SoundsTyping
 ### Animation and sound project.  
