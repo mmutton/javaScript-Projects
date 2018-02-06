@@ -10,14 +10,14 @@ Shopping list with line-through and delete items functions and add item input, w
 
 ![Shopping List](images/ShoppingListScreenshot.png)
 
-2.  SoundsTyping
+## 2.  SoundsTyping
 ### Animation and sound project.  
 Typing on the keyboard releases sounds which coincide with colorful circle animation.  Javascript libraries: howler.js and Paper.js.
 
 ![SoundsTyping](images/SoundsTypingScreenshot.jpg)
-
-3.  RGB Game
+ 
+## 3.  RGB Game
 Basic javascript project with random number generator for red, green blue (rgb) color values.
 CSS and Javascript styling.
 
-![RGB Game](images/rgbGameScreenshotResized.png)
+![RGB Game](img/rgbGameScreenshotResized.png)
