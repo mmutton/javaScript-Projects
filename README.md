@@ -20,4 +20,4 @@ Typing on the keyboard releases sounds which coincide with colorful circle anima
 Basic javascript project with random number generator for red, green blue (rgb) color values.
 CSS and Javascript styling.
 
-![ ](images/rgbGameScreenshotResized.png)
+![ ](images/rgbGameScreenshot.png)

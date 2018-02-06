@@ -3,4 +3,4 @@
 Basic javascript project with random number creator for rgb(x, y, z) color values.  
 CSS and Javascript styling.
 
-![RGB Game](images/rgbGameScreenshotResized.png);
+![RGB Game](images/rgbGameScreenshot.png);
